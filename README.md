@@ -13,9 +13,9 @@
 Запустите контейнеры:
 
 Bash
-\```bash
+    ```bash
     docker-compose up --build
-\```
+
 Готово! * API доступно по адресу: http://localhost:8000
 
 Интерактивная документация (Swagger): http://localhost:8000/docs
