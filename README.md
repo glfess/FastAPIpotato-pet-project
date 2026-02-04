@@ -45,5 +45,5 @@ requirements.txt — зависимости Python.
 Использовать команду прямой сборки:
 
 Bash
-
+```bash
 docker build --network=host -t fastapi_app .
